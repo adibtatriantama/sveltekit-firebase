@@ -1,6 +1,10 @@
 # Sveltekit - Firebase
 
-I have just created this repo and I dont have anything to show yet. Please Come back later. I am following [this guide](https://jsco.dev/blog/how-to-set-up-tailwindcss-with-svelte-kit) for installing Tailwind in SvelteKit
+I am using Firebase 9.
+
+Still under development.
+
+I am following [this guide](https://jsco.dev/blog/how-to-set-up-tailwindcss-with-svelte-kit) for installing Tailwind in SvelteKit
 
 ## Developing
 
